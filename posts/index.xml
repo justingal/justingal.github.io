@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Justinas</title>
-    <link>https://justingal.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Justinas</description>
     <generator>Hugo</generator>
     <language>lt</language>
-    <lastBuildDate>Tue, 22 Oct 2024 22:27:56 +0300</lastBuildDate>
-    <atom:link href="https://justingal.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Oct 2024 13:16:58 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Antras</title>
+      <link>http://localhost:1313/posts/post2/</link>
+      <pubDate>Wed, 23 Oct 2024 13:16:58 +0300</pubDate>
+      <guid>http://localhost:1313/posts/post2/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Postas1</title>
-      <link>https://justingal.github.io/posts/post1/</link>
+      <link>http://localhost:1313/posts/post1/</link>
       <pubDate>Tue, 22 Oct 2024 22:27:56 +0300</pubDate>
-      <guid>https://justingal.github.io/posts/post1/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://justingal.github.io/images/profile-photo.jpg&#34; alt=&#34;&amp;ldquo;Profile&amp;rdquo;&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/post1/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/profile-photo.jpg&#34; alt=&#34;&amp;ldquo;Profile&amp;rdquo;&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Justinas</title>
-    <link>https://justingal.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Justinas</description>
     <generator>Hugo</generator>
     <language>lt</language>
-    <lastBuildDate>Tue, 22 Oct 2024 22:27:56 +0300</lastBuildDate>
-    <atom:link href="https://justingal.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Oct 2024 13:16:58 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>c&#43;&#43; Hello world</title>
+      <link>http://localhost:1313/posts/post2/</link>
+      <pubDate>Wed, 23 Oct 2024 13:16:58 +0300</pubDate>
+      <guid>http://localhost:1313/posts/post2/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-cpp&#34; data-lang=&#34;cpp&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;#include&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;&amp;lt;iostream&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;int&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;() {&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    std&lt;span style=&#34;color:#f92672&#34;&gt;::&lt;/span&gt;cout &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello World!&amp;#34;&lt;/span&gt;;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;labas-pasauli-tau-programa-atsakys&#34;&gt;&amp;ldquo;&lt;code&gt;Labas pasauli&lt;/code&gt;&amp;rdquo; tau programa atsakys&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/profile-photo.jpg&#34; alt=&#34;&amp;ldquo;Profile&amp;rdquo;&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Postas1</title>
-      <link>https://justingal.github.io/posts/post1/</link>
+      <link>http://localhost:1313/posts/post1/</link>
       <pubDate>Tue, 22 Oct 2024 22:27:56 +0300</pubDate>
-      <guid>https://justingal.github.io/posts/post1/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://justingal.github.io/images/profile-photo.jpg&#34; alt=&#34;&amp;ldquo;Profile&amp;rdquo;&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/post1/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/profile-photo.jpg&#34; alt=&#34;&amp;ldquo;Profile&amp;rdquo;&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
